@@ -148,6 +148,16 @@ sudo apt-get install libta-lib-dev  # Ubuntu
 
 pip install TA-Lib
 ```
+## 📸 Screenshots
+
+### Landing Page
+<img src="./landing.png" alt="Landing Page" width="600"/>
+
+### Chat Page
+<img src="./screenshot.png" alt="Chat Page" width="600"/>
+
+### Loading Page
+<img src="./loading.png" alt="Loading Page" width="600"/>
 
 ## Usage Examples
 
