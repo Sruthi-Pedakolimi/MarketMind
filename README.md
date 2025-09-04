@@ -151,7 +151,7 @@ pip install TA-Lib
 ## 📸 Screenshots
 
 ### Landing Page
-<img src="./landing.png" alt="Landing Page" width="600"/>
+<img src="./landingpage.png" alt="Landing Page" width="600"/>
 
 ### Chat Page
 <img src="./screenshot.png" alt="Chat Page" width="600"/>
